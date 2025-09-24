@@ -1,0 +1,6 @@
+fastapi==0.114.2
+uvicorn[standard]==0.30.6
+streamlit==1.37.1
+requests==2.32.3
+datasets==2.19.0
+polars>=0.20.0
